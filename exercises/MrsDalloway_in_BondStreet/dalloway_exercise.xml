@@ -57,7 +57,7 @@
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
 
             <head>MRS DALLOWAY IN BOND STREET</head>
-            <byline>BY VIRGINIA WOOLF</byline>
+            <byline>BY <persName cert="high" role="aut" type="real">VIRGINIA WOOLF</persName></byline>
 
 
             <p>Mrs Dalloway said she would buy the gloves herself.</p>
@@ -163,7 +163,7 @@
                high head-dresses. But no good looking! One must economize. She must go on past the
                picture dealer's where one of the odd French pictures hung, as if people had thrown
                confetti—pink and blue—for a joke. If you had lived with pictures (and it's the same
-               with books and music) thought Clarissa, passing the Aeolian Hall, you can't be taken
+               with books and music) thought <persName>Clarissa</persName>, passing the Aeolian Hall, you can't be taken
                in by a joke.</p>
             <p>The river of Bond Street was clogged. There, like a Queen at a tournament, raised,
                regal, was Lady Bexborough. She sat in her carriage, upright, alone, looking through
